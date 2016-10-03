@@ -1,5 +1,7 @@
 Powerful Oracle database management, development and reporting tool. Oracle client and direct mode supported, customizable object browser, SQL editor, SQL formatter, history browser, schema document, 27 ready made styles, etc.
 
+The license for ODAC costs $449.95	(https://www.devart.com/odac/ordering.html). This project is on hold until I get donations or better job to cover expenses.
+
 <h3>Downloads</h3>
 
   * <a href="http://www.bonecode.com/downloads/OraBone.zip">32-bit Windows</a>, <a href="http://www.bonecode.com/downloads/OraBone64.zip">64-bit Windows</a> - OraBone v. <a href="http://bonecode.com/downloads/OraBone/changes.html" target="_blank">8.4.0</a>
